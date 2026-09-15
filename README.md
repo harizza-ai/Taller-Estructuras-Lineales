@@ -27,8 +27,8 @@ individual. Por ejemplo, para el ejercicio 1 estar en el archivo y darle F5 o ru
 
 ```bash
 cd src
-javac -encoding UTF-8 arreglos/Ejercicio01_ArregloPrimos.java
-java arreglos.Ejercicio01_ArregloPrimos
+javac -encoding UTF-8 arreglos/ArregloPrimos.java
+java arreglos.ArregloPrimos
 ```
 
 Para los ejercicios que piden datos por teclado (por ejemplo el 3, 7, 11,
@@ -38,6 +38,6 @@ Para el ejercicio 10 (Partidos), se debe compilar la clase
 `Partido`, pero antes de compilar cambiar la ruta del archivo PartidoLiga.txt por la correspondiente, si le da click izquierdo al archivo y hace la combinacion de teclas Ctrl + Alt + C copia la ruta
 
 ```bash
-javac -encoding UTF-8 arraylist/Partido.java arraylist/Ejercicio10_Partidos.java
-java arraylist.Ejercicio10_Partidos
+javac -encoding UTF-8 arraylist/Partido.java arraylist/Partidos.java
+java arraylist.Partidos
 ```
